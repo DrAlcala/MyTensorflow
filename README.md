@@ -1,6 +1,6 @@
 # MyTensorflow
 ------------------------
-Using Ubuntu 18.04LTS on windows subsystem.
+Using Ubuntu 18.04LTS on Windows Subsystem for Linux(WSL).
 * Installed anaconda3 
   1. https://www.anaconda.com/download/#linux
   2. per instructions, add conda to .bashrc. In terminal edit file with command.  

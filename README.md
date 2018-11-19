@@ -19,5 +19,6 @@ Using Ubuntu 18.04LTS on Windows Subsystem for Linux(WSL).
   2. pip install pandas
   3. pip install python-utils
   4. conda install scikit-learn
+  5. conda install seaborn
       
     
